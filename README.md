@@ -10,6 +10,8 @@ Pour ceux qui veulent montrer publiquement ce qu'ils sont en train d'écouter su
 
 # Where's the Source Code / Où est le code source ?
 I will share the project when it's finished, it's currently under testing.
+
+
 Je partegerai le code source lorsque le projet sera terminé, il est actuellement en phase de test. (Oui je sais c'est un tout petit projet mais pour l'instant je veux faire certainnes choses qui ne sont pas possible avec le rich presence. Je vais sans doute devoir écrire un Wrapper pour leurs nouveau système à savoir le GameSDK, tout ça pour afficher "En train d'écouter" au lieu de "En train de jouer", mais meh, je suis un peu flemmard donc si je refais pas le code pour ça je mettrais en ligne).
 
 
