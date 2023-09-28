@@ -1,7 +1,9 @@
 # DiscordSpotifyPresence
 Spotify Presence for Discord without connecting them !
 
+
 For thoses who want to show to their friend or member what they are currently listening on Spotify but are lazy or simply don't want to connect Discord and Spotify together.
+
 
 Pour ceux qui veulent montrer publiquement ce qu'ils sont en train d'écouter sur Spotify mais qui ne veulent pas lier les comptes Spotify et Discord.
 
