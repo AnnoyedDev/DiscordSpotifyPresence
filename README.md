@@ -28,7 +28,6 @@ You need multiple thing :
   - Start the application
 
 
+\* **All in Your Scope = Everything is managed by You**, you basically can modify the code when you want, everything is controlled by you.
 
-  * A ll in Your Scope = Everything is managed by You, you basically can modify the code when you want, everything is controlled by you.
-
-  ** Method 2 use my Spotify and Discord Dev App. You cannot modify the LargeImageKey nor the name of the Presence ("J'écoute"). It's the easiest and fastest method but you must trust my apps and how i manage them.  
+\*\* **Method 2** use my Spotify and Discord Dev App. You cannot modify the LargeImageKey nor the name of the Presence ("J'écoute"). It's the easiest and fastest method but you must trust my apps and how i manage them.  
