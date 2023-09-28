@@ -23,7 +23,7 @@ You need multiple thing :
 - An Discord application from [Discord Developper Portal](https://discord.com/developers/applications)
   Will continue when code released...
 
-  # Setup Method 2** (Fastest but not managed by you)
+# Setup Method 2** (Fastest but not managed by you)
   - Download the latest Release from Releases
   - Start the application
 
