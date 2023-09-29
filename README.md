@@ -18,7 +18,7 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 ## Prerequisites
 
 1. **Git** (Optional if downloaded as ZIP): Ensure you have [Git](https://git-scm.com/) installed on your machine. For Windows users, you can also use alternatives like [GitHub Desktop](https://desktop.github.com/).
-2. **Clone the Project** or **Download the project as ZIP) : Clone the project to the location where you want to save it using the following command. If you're using Github Desktop, simply copy-paste the link into the application under "Clone a repository".
+2. **Clone the Project** or **Download the project as ZIP** : Clone the project to the location where you want to save it using the following command. If you're using Github Desktop, simply copy-paste the link into the application under "Clone a repository".
    ```bash
    git clone https://github.com/AnnoyedDev/DiscordSpotifyPresence.git
    ```
@@ -68,7 +68,7 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 ## Prérequis
 
 1. **Git** (Optionnel si vous téléchargez le code en ZIP) : Assurez-vous d'avoir [Git](https://git-scm.com/) installé sur votre machine. Pour les utilisateurs de Windows, vous pouvez également utiliser des alternatives comme [GitHub Desktop](https://desktop.github.com/).
-2. **Clonez le projet** (Ou téléchargez le code en ZIP) : Clonez le projet à l'endroit où vous souhaitez l'enregistrer en utilisant la commande suivante. Si vous utilisez Github Desktop, il vous suffit de copier-coller le lien sur l'application dans "copier un projet".
+2. **Clonez le projet** **Ou téléchargez le code en ZIP** : Clonez le projet à l'endroit où vous souhaitez l'enregistrer en utilisant la commande suivante. Si vous utilisez Github Desktop, il vous suffit de copier-coller le lien sur l'application dans "copier un projet".
    ```bash
    git clone https://github.com/AnnoyedDev/DiscordSpotifyPresence.git
    ```
