@@ -15,6 +15,8 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 
 # English
 
+## First and Foremost
+RENAME config.json.example to config.json
 ## Prerequisites
 
 1. **Git** (Optional if downloaded as ZIP): Ensure you have [Git](https://git-scm.com/) installed on your machine. For Windows users, you can also use alternatives like [GitHub Desktop](https://desktop.github.com/).
@@ -65,6 +67,8 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 
 # Français
 
+## Tout d'abord
+Renommez config.json.example en config.json
 ## Prérequis
 
 1. **Git** (Optionnel si vous téléchargez le code en ZIP) : Assurez-vous d'avoir [Git](https://git-scm.com/) installé sur votre machine. Pour les utilisateurs de Windows, vous pouvez également utiliser des alternatives comme [GitHub Desktop](https://desktop.github.com/).
