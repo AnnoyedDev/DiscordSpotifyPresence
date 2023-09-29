@@ -23,14 +23,15 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
    - Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications).
    - Click on "Create an App".
    - Fill out the required information and note down the Client ID and Client Secret to add to your `config.json` file.
+   - The Client ID goes under `clientId`.
+   - The Secret goes under `clientSecret`.
    - For the redirect, add `http://localhost:8888/callback`.
    - Start the application with:
      ```bash
      node index.js
      ```
    - Click the link, authorize, and then note the URL returned in your address bar.
-   - The Client ID goes under `clientId`.
-   - The Secret goes under `clientSecret`.
+   - Start again the application with the code in the returned URL `node index.js {CODE}`.
 
 6. **Creating a Discord application**:
    - Go to the [Discord Developer Portal](https://discord.com/developers/applications).
@@ -73,13 +74,14 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
    - Cliquez sur "Create an App".
    - Remplissez les informations nécessaires et notez l'ID du client et le secret du client pour les ajouter à votre fichier `config.json`.
    - Dans la redirection, ajoutez `http://localhost:8888/callback`.
+   - L'ID du client va sur `clientId`.
+   - Le secret va sur `clientSecret`.
    - Lancez l'application avec :
      ```bash
      node index.js
      ```
    - Cliquez sur le lien, autorisez, puis notez l'URL retournée dans votre barre d'adresse.
-   - L'ID du client va sur `clientId`.
-   - Le secret va sur `clientSecret`.
+   - Relanceez l'application avec comme argument le code retournée sur l'URL `node index.js {code}`.
 
 6. **Création d'une application sur Discord** :
    - Allez sur le [Portail des développeurs de Discord](https://discord.com/developers/applications).
