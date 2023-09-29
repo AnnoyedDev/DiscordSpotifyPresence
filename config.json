@@ -1,6 +1,6 @@
 {
   "SUPPORTED_LANGUAGE":"English (en),  Français (fr), Español (es), Italiano (it), 日本語 (jp), Weeb~ (owo)",
-  "language": "owo",
+  "language": "en",
   "discordClientId": "DISCORD CLIENT ID",
   "clientId": "SPOTIFY CLIENT ID",
   "clientSecret": "SPOTIFY CLIENT SECRET",
