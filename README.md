@@ -4,6 +4,14 @@ Spotify Presence for Discord without connecting them !
 This project displays what you're listening to on Spotify on Discord without connecting the two accounts. It's designed for those who want to share their current tunes with friends or members but don't want to directly link Spotify and Discord because of the known drawback of that (for example if you don't want to let people know what you're listening sometimes or outside with your phone, with linked account you must go to your profile settings each time...).
 
 Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans avoir à lier les deux comptes. Il a été créé pour ceux qui souhaitent partager leur musique avec leurs amis ou membres des serveurs sur lesquels vous êtes sans pour autant connecter directement Spotify à Discord, pour éviter les désavantages comme si par exemple vous ne voulez pas montrer que vous écoutez spotify quand vous êtes sur votre téléphone ou simplement parfois ne pas montrer. Ici il suffira de fermer l'application ou de ne pas la lancer.
+# Lang Supported :
+- English (英語, Inglés, Anglais, Inglese)
+- Español (Spanish, Espagnol, Spagnolo, スペイン語)
+- Français (French, Francés, Francese, フランス語)
+- Italiano (Italian, Italien, Italiano, イタリア語)
+- 日本語 (Japanese, Japonés, Japonais, Giapponese)
+- Secret Language 🤫
+
 
 # English
 
