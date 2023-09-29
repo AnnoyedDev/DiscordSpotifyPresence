@@ -8,5 +8,6 @@
   "listen_on_spotify": "Spotify\u3067Listen~ uwu-desu",
   "view_on_github": "GitHub\u3067View~ kawaii desho?",
   "by_artist_prefix": "Sugoi song by ",
-  "by_artist_suffix": "-senpai"
+  "by_artist_suffix": "-senpai",
+  "update_failed": "Baka mitai ! Kono Software crashed in Truck-kun ! Please Verify the ClientID !"
 }

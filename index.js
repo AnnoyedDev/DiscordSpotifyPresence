@@ -46,7 +46,7 @@ function obtainAccessToken(forceRefresh) {
 
 
 // 🎵 Function to update Discord presence with the currently playing Spotify song
-function updatePresence() {
+function updatePresence(retry) {
     // 📝 Try to get the currently playing song from Spotify
     axios.get('https://api.spotify.com/v1/me/player/currently-playing', {
         headers: {
@@ -83,7 +83,14 @@ function updatePresence() {
         // 😢 Something went wrong
         console.error(translations.presence_update_error, error);
         obtainAccessToken();
-        updatePresence();
+        retry ? retry : retry = 0
+        retry++
+        if(retry > 3) {
+            console.log(error)
+            console.log(translations.update_failed);
+            process.exit(1);  // ❌ Exit the process with error
+        }
+        updatePresence(retry);
     });
 }
 

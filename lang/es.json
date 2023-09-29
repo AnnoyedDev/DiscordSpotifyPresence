@@ -8,5 +8,6 @@
   "listen_on_spotify": "Escuchar en Spotify",
   "view_on_github": "Ver en GitHub!",
   "by_artist_prefix": "por ",
-  "by_artist_suffix": ""  
+  "by_artist_suffix": "",
+  "update_failed": "Error crítico con Discord. Verifique el ClientID y el error."
 }
