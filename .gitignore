@@ -1,3 +1,6 @@
+# Config log to not leak my lewd spotify account
+config.json
+
 # Logs
 logs
 *.log

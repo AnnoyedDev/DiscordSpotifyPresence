@@ -1,0 +1,12 @@
+{
+  "link_message": "\ud83d\udd17 Open the following link in your browser to authorize the application:",
+  "instruction_message": "\ud83d\udc49 After authorization, you will get a code in the URL. Copy that code and run the script with the code as an argument.",
+  "token_refresh_error": "\u274c Error refreshing the token:",
+  "presence_update_error": "\u274c Error updating the presence:",
+  "connected_to_discord": "\ud83c\udf89 Connected to Discord!",
+  "access_token_error": "\u274c Error obtaining the access token:",
+  "listen_on_spotify": "Listen on Spotify",
+  "view_on_github": "View on GitHub!",
+  "by_artist_prefix": "by ",
+  "by_artist_suffix": ""
+}

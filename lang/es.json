@@ -1,0 +1,12 @@
+{
+  "link_message": "\ud83d\udd17 Abre el siguiente enlace en tu navegador para autorizar la aplicaci\u00f3n:",
+  "instruction_message": "\ud83d\udc49 Despu\u00e9s de autorizar, obtendr\u00e1s un c\u00f3digo en la URL. Copia ese c\u00f3digo y ejecuta el script con el c\u00f3digo como argumento.",
+  "token_refresh_error": "\u274c Error al actualizar el token:",
+  "presence_update_error": "\u274c Error al actualizar la presencia:",
+  "connected_to_discord": "\ud83c\udf89 \u00a1Conectado a Discord!",
+  "access_token_error": "\u274c Error al obtener el token de acceso:",
+  "listen_on_spotify": "Escuchar en Spotify",
+  "view_on_github": "Ver en GitHub!",
+  "by_artist_prefix": "por ",
+  "by_artist_suffix": ""  
+}

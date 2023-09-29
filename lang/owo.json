@@ -1,0 +1,12 @@
+{
+  "link_message": "Open~ this kawaii link in your browser, desu:",
+  "instruction_message": "After giving your nakama permission, you'll get a mysterious code in the URL. Copy that code and invoke the jutsu with the code as a chakra argument, nyaa~.",
+  "token_refresh_error": "Baka! Error refreshing the chakra token, uwu:",
+  "presence_update_error": "Ara ara~ Error updating your ki presence:",
+  "connected_to_discord": "Connected to the Discord guild, senpai~!",
+  "access_token_error": "Nani?! Error obtaining the secret scroll (access token):",
+  "listen_on_spotify": "Spotify\u3067Listen~ uwu-desu",
+  "view_on_github": "GitHub\u3067View~ kawaii desho?",
+  "by_artist_prefix": "Sugoi song by ",
+  "by_artist_suffix": "-senpai"
+}
