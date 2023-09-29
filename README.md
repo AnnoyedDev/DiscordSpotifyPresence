@@ -40,7 +40,9 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 7. **Configuration file `config.json`**: Ensure you have a `config.json` file in the same directory as your `index.js`. This file should contain configuration information for the Spotify and Discord APIs.
 
 8. **Spotify Authorization**: Before you can run the script for the first time, you must authorize the application through Spotify. Follow the instructions displayed in the console for this.
-
+   
+** DO NOT TOUCH OR MODIFY `accessToken` AND `refreshToken` IN THE `config.json` FILE !**
+   
 ## How to run
 
 1. Open a console or terminal.
@@ -87,7 +89,9 @@ Ce projet permet d'afficher ce que vous écoutez sur Spotify sur Discord sans av
 7. **Fichier de configuration `config.json`** : Assurez-vous d'avoir un fichier `config.json` dans le même répertoire que votre `index.js`. Ce fichier doit contenir les informations de configuration pour l'API Spotify et Discord.
 
 8. **Autorisation de Spotify** : Avant de pouvoir exécuter le script pour la première fois, vous devez autoriser l'application via Spotify. Suivez les instructions affichées dans la console pour cela.
-
+   
+** NE PAS MODIFIER / TOUCHER `accessToken` ET `refreshToken` DANS LE FICHIER `config.json` !**
+   
 ## Comment l'exécuter
 
 1. Ouvrez une console ou un terminal.
