@@ -1,0 +1,8 @@
+{
+  "discordClientId": "DISCORD CLIENT ID",
+  "clientId": "SPOTIFY CLIENT ID",
+  "clientSecret": "SPOTIFY CLIENT SECRET",
+  "redirectUri": "REDIRECT_URI (http://localhost:8888/callback)",
+  "accessToken": "",
+  "refreshToken": ""
+}
