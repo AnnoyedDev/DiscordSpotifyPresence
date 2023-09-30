@@ -63,6 +63,10 @@ RENAME config.json.example to config.json
    node index.js
    ```
 
+## Run in background
+ - Install pm2 with `npm i pm2 -g`
+ - Start the application with `pm2 start index.js --name="discordspotifypresence"`
+ - You can view log, stop or restrat with `pm2 [log|stop|restart] discordspotifypresence`
 
 
 # Français
@@ -114,4 +118,7 @@ Renommez config.json.example en config.json
    ```bash
    node index.js
    ```
-
+## Le faire tourner en arrière plan
+ - Intallez pm2 avec `npm i pm2 -g`
+ - Lancez et nommez l'application avec `pm2 start index.js --name="discordspotifypresence"`
+ - Vous pouvez voir les logs, arrêter ou relancer l'application avec `pm2 [log|stop|restart] discordspotifypresence`
